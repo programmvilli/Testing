@@ -1,3 +1,4 @@
 test23 resar
 Annað conflict. Það stóð test hér.
 Þetta er conflict
+Test Commit fyrir fisheye!
