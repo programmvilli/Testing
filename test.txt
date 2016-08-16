@@ -1,3 +1,3 @@
 test23 resar
-test
+Annað conflict. Það stóð test hér.
 Þetta er conflict
