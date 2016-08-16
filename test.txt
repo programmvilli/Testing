@@ -3,3 +3,4 @@ Annað conflict. Það stóð test hér.
 Þetta er conflict
 Test Commit fyrir fisheye!
 Annað test fyrir fishey!
+AFTUR!
